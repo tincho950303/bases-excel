@@ -1,2 +1,2 @@
-# bases-excel
-Bases de datos creadas con excel para practicas 
+# Ejercicios resueltos 
+Bases de datos creadas y resolucion de ejercicios con hojas de calculo
